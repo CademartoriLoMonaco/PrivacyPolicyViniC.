@@ -19,17 +19,17 @@ Vini C. si riserva il diritto di effettuare senza preavviso le modifiche che rit
 Vini C. dichiara di aver adottato tutte le misure necessarie, nell'ambito delle sue possibilità e dello stato della tecnologia, per garantire il funzionamento dell’App  e per impedire l'esistenza e la trasmissione di virus e altri componenti dannosi agli Utenti.
 Tuttavia, Vini C. non garantisce né è responsabile per:
 
-i.  La continuità dei contenuti dell’app;
+  i.  La continuità dei contenuti dell’app;
 
-ii. L'assenza di errori nei contenuti o nei servizi;
+  ii. L'assenza di errori nei contenuti o nei servizi;
 
-iii.  L'assenza di virus e/o altri componenti dannosi;
+  iii.  L'assenza di virus e/o altri componenti dannosi;
 
-iv. L'invulnerabilità dell’App e/o l'inespugnabilità delle misure di sicurezza adottate nello stesso;
+  iv. L'invulnerabilità dell’App e/o l'inespugnabilità delle misure di sicurezza adottate nello stesso;
 
-v.  La mancanza di utilità o efficienza dei contenuti e dei servizi dell’App ;
+  v.  La mancanza di utilità o efficienza dei contenuti e dei servizi dell’App ;
 
-vi. I danni o le perdite causati a sé stesso o a terzi, a chiunque contravvenga alle condizioni, alle regole e alle istruzioni che Vini C. stabilisce sulla App Web o attraverso la violazione dei sistemi di sicurezza dell’App .
+  vi. I danni o le perdite causati a sé stesso o a terzi, a chiunque contravvenga alle condizioni, alle regole e alle istruzioni che Vini C. stabilisce sulla App Web o attraverso la violazione dei sistemi di sicurezza dell’App .
 
 Se l'Utente viene a conoscenza dell'esistenza di contenuti illeciti, illegali, contrari alle leggi o che potrebbero comportare la violazione dei diritti di proprietà intellettuale e/o industriale o di qualsiasi altro diritto di terzi, dovrà informare immediatamente Vini C., affinché possa adottare le misure opportune.
 
