@@ -3,7 +3,7 @@ L'utilizzo, l'accesso, la navigazione e la visualizzazione di contenuti presenti
 
 1. PROPRIETÀ DI VINI C..
 
-ll proprietario di questa app è Vini C..
+Il proprietario di questa app è Vini C..
 Email: letwinsby2020@gmail.com 
 
 2. PROPRIETÀ INTELLETTUALE E INDUSTRIALE.
