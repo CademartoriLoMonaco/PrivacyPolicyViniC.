@@ -19,31 +19,31 @@ Vini C. si riserva il diritto di effettuare senza preavviso le modifiche che rit
 Vini C. dichiara di aver adottato tutte le misure necessarie, nell'ambito delle sue possibilità e dello stato della tecnologia, per garantire il funzionamento dell’App  e per impedire l'esistenza e la trasmissione di virus e altri componenti dannosi agli Utenti.
 Tuttavia, Vini C. non garantisce né è responsabile per:
 
-  i.  La continuità dei contenuti dell’app;
+* La continuità dei contenuti dell’app;
 
-  ii. L'assenza di errori nei contenuti o nei servizi;
+* L'assenza di errori nei contenuti o nei servizi;
 
-  iii.  L'assenza di virus e/o altri componenti dannosi;
+* L'assenza di virus e/o altri componenti dannosi;
 
-  iv. L'invulnerabilità dell’App e/o l'inespugnabilità delle misure di sicurezza adottate nello stesso;
+* L'invulnerabilità dell’App e/o l'inespugnabilità delle misure di sicurezza adottate nello stesso;
 
-  v.  La mancanza di utilità o efficienza dei contenuti e dei servizi dell’App ;
+* La mancanza di utilità o efficienza dei contenuti e dei servizi dell’App ;
 
-  vi. I danni o le perdite causati a sé stesso o a terzi, a chiunque contravvenga alle condizioni, alle regole e alle istruzioni che Vini C. stabilisce sulla App Web o attraverso la violazione dei sistemi di sicurezza dell’App .
+* I danni o le perdite causati a sé stesso o a terzi, a chiunque contravvenga alle condizioni, alle regole e alle istruzioni che Vini C. stabilisce sulla App Web o attraverso la violazione dei sistemi di sicurezza dell’App .
 
 Se l'Utente viene a conoscenza dell'esistenza di contenuti illeciti, illegali, contrari alle leggi o che potrebbero comportare la violazione dei diritti di proprietà intellettuale e/o industriale o di qualsiasi altro diritto di terzi, dovrà informare immediatamente Vini C., affinché possa adottare le misure opportune.
 
 4. LINK.
 
-•	Nell’ipotesi in cui l’App contenga link o collegamenti ipertestuali ad altri siti Internet, Vini C. non eserciterà alcun tipo di controllo sui suddetti siti e contenuti. In nessun caso Vini C. si assumerà la responsabilità per i contenuti di qualsiasi link che appartenga ad un sito Web di terzi, né garantirà la disponibilità tecnica, la qualità, l'affidabilità, l'esattezza, l'ampiezza, la veridicità, la validità e la legittimità costituzionale di qualsiasi materiale o informazione contenuta in uno dei suddetti collegamenti ipertestuali o altri siti Internet. Allo stesso modo, l'inclusione di questi collegamenti esterni non implicherà alcun tipo di associazione, fusione o partecipazione con le entità collegate.
+* Nell’ipotesi in cui l’App contenga link o collegamenti ipertestuali ad altri siti Internet, Vini C. non eserciterà alcun tipo di controllo sui suddetti siti e contenuti. In nessun caso Vini C. si assumerà la responsabilità per i contenuti di qualsiasi link che appartenga ad un sito Web di terzi, né garantirà la disponibilità tecnica, la qualità, l'affidabilità, l'esattezza, l'ampiezza, la veridicità, la validità e la legittimità costituzionale di qualsiasi materiale o informazione contenuta in uno dei suddetti collegamenti ipertestuali o altri siti Internet. Allo stesso modo, l'inclusione di questi collegamenti esterni non implicherà alcun tipo di associazione, fusione o partecipazione con le entità collegate.
 
-•	Tuttavia, alcuni link saranno precedentemente negoziati o concordati con la persona responsabile del contenuto collegato, in modo tale che venga generato un corrispettivo per le azioni liberamente eseguite dall'Utente. Questa situazione non pregiudicherà in alcun caso l'esclusione di responsabilità sul contenuto collegato o l'indipendenza di questo mezzo di comunicazione.
+* Tuttavia, alcuni link saranno precedentemente negoziati o concordati con la persona responsabile del contenuto collegato, in modo tale che venga generato un corrispettivo per le azioni liberamente eseguite dall'Utente. Questa situazione non pregiudicherà in alcun caso l'esclusione di responsabilità sul contenuto collegato o l'indipendenza di questo mezzo di comunicazione.
 
-•	Vini C. concede a terzi il diritto di riproduzione parziale dei contenuti della pagina purché siano soddisfatte le seguenti condizioni:
+* Vini C. concede a terzi il diritto di riproduzione parziale dei contenuti della pagina purché siano soddisfatte le seguenti condizioni:
 
-  o Che sia compatibile con gli scopi della Piattaforma.
+  * Che sia compatibile con gli scopi della Piattaforma.
   
-  o	Che nessun contenuto grafico sia usato separatamente dal testo di accompagnamento.
+  *	Che nessun contenuto grafico sia usato separatamente dal testo di accompagnamento.
 
 5. CONDIZIONI DI UTILIZZO DELL’APP PER GLI UTENTI.
 
@@ -52,13 +52,13 @@ L'accesso a questa app è gratuito, ad eccezione del costo della connessione, tr
 L'uso di questa piattaforma è limitato alle persone di età superiore ai 18 anni. Effettuando un ordine attraverso questa Piattaforma, il Cliente dichiara di avere più di 18 anni e di avere la capacità legale di stipulare contratti.
 L'Utente si assume la responsabilità per l'utilizzo dell’App . L'Utente si impegna ad utilizzare in modo appropriato i contenuti e i servizi (per esempio la valutazione ed il punteggio del servizio offerto) che Vini C. fornisce attraverso l’App, ed a non usarli, a mero titolo esemplificativo ma non limitativo, per:
 
-i.	sostenere attività illecite, illegali o contrarie alla buona fede e all'ordine pubblico;
+* sostenere attività illecite, illegali o contrarie alla buona fede e all'ordine pubblico;
 
-ii.	diffondere contenuti o propaganda di natura razzista, xenofoba, pornografica-illegale, di apologia del terrorismo o in violazione dei diritti umani;
+* diffondere contenuti o propaganda di natura razzista, xenofoba, pornografica-illegale, di apologia del terrorismo o in violazione dei diritti umani;
 
-iii.	causare danni ai sistemi hardware e software di Vini C., dei suoi fornitori o di terze parti, introdurre o diffondere nella rete virus informatici o qualsiasi altro sistema hardware o software che possa causare i suddetti danni;
+* causare danni ai sistemi hardware e software di Vini C., dei suoi fornitori o di terze parti, introdurre o diffondere nella rete virus informatici o qualsiasi altro sistema hardware o software che possa causare i suddetti danni;
 
-iv.	tentare di accedere ed, eventualemente, utilizzare gli account di posta elettronica di altri Utenti e modificare o manipolare i loro messaggi. Vini C. si riserva il diritto di ritirare tutti i commenti e i contributi che violano il rispetto della dignità della persona, che sono discriminatori, xenofobi, razzisti, pornografici, che ledono il dirtto all'infanzia, l'ordine o la sicurezza pubblica o che non risultano idonei alla pubblicazione.
+* tentare di accedere ed, eventualemente, utilizzare gli account di posta elettronica di altri Utenti e modificare o manipolare i loro messaggi. Vini C. si riserva il diritto di ritirare tutti i commenti e i contributi che violano il rispetto della dignità della persona, che sono discriminatori, xenofobi, razzisti, pornografici, che ledono il dirtto all'infanzia, l'ordine o la sicurezza pubblica o che non risultano idonei alla pubblicazione.
 
 In ogni caso, Vini C. non sarà responsabile per le opinioni espresse dagli Utenti attraverso i forum, le valutazioni e i punteggi di servizio, o altri strumenti di partecipazione. Vini C. si riserva il diritto di modificare, rifiutare o eliminare commenti che non soddisfano le condizioni indicate. Allo stesso modo, si riserva il diritto di negare o revocare l'accesso all’App e / o ai servizi offerti senza preavviso, di propria iniziativa o su richiesta di terzi, a quegli Utenti che non rispettano le presenti Condizioni Generali d'Uso.
 Per quanto riguarda i commenti dei Clienti (compresa la valutazione inviata durante il servizio) potranno essere visualizzati sulla pagina del fornitore dei servizi di vini all'interno dell’App al fine di condividere con gli altri Clienti le opinioni sul livello del servizio e sulla qualità, così come potranno essere utilizzati allo scopo di migliorare il servizio fornito attraverso l’App.
@@ -70,13 +70,13 @@ Questa Applicazione richiede il rilascio di alcuni permessi da parte dell’Uten
 Nel caso in cui l’Utente conceda i permessi indicati in seguito, i relativi Dati Personali potranno essere oggetto di trattamento (accesso, modifica o rimozione) da parte di Questa Applicazione.
 Dati Personali trattati: 
 
-• Permesso Camera:
+* Permesso Camera:
 Utilizzato per accedere alla videocamera o acquisire immagini e video dalla periferica.
 
-•	Permesso Chiamate:
+* Permesso Chiamate:
 Utilizzato per accedere a numerose funzioni tipiche della telefonia.
 
-•	Permesso Galleria Fotografica:
+* Permesso Galleria Fotografica:
 Consente l’accesso alla Galleria Fotografica dell’Utente.
 
 7. POLITICA SULLA PRIVACY.
